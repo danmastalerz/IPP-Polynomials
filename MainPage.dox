@@ -1,0 +1,17 @@
+/**
+@mainpage Dokumentacja zadania wielomiany
+
+### Treść zadania
+
+Uwaga: aktualna treść zadania znajduje się w [Moodle](https://moodle.mimuw.edu.pl).
+
+### Opis programu
+
+Tegoroczne duże zadanie polega na zaimplementowaniu operacji na wielomianach
+rzadkich wielu zmiennych.
+
+Program pozwala wykonywać operacje na wielomianach rzadkich wielu zmiennych.
+Wśród nich są podstawowe operacje arytmetyczne, takie jak dodawanie, odejmowanie, mnożenie.
+Są również inne funkcje tworzące wielomiany. Szczegóły w dokumentacji konkretnych funkcji.
+
+*/
